@@ -1,0 +1,4 @@
+John Smith 89 Glenwood Street Boston MA 12542
+Allan Craft 18B North Mall Avenue Chicago IL 12555
+Maria Shaw 134 Old Fort Drive Miami FL 12569
+Ryan Cox 182 Kingston Ave Springfield MI 12822
